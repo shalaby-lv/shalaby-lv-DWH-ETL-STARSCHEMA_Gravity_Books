@@ -42,7 +42,6 @@ ETL Using SSIS/
 - SQL Server
 - SQL Server Integration Services (SSIS)
 - SQL Server Data Tools (Visual Studio)
-- T-SQL
 
 ## How to Run
 
